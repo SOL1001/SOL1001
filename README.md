@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 # 👋🏽 Hey there! I'm Solomon Yitayew – Full-Stack Developer from Ethiopia
 
