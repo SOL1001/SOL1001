@@ -9,7 +9,7 @@
 
 ## 🔥 Current Work
 - Building full-stack applications with MERN stack
-- Developing mobile solutions with React Native
+- Developing mobile solutions with React Native and Flutter
 - Maintaining [AddisPay Android App](https://play.google.com/store/apps/details?id=com.addispayapp&pcampaignid=web_share)
 - Contributing to open source projects
 
@@ -18,6 +18,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -44,7 +45,7 @@
 ## 📚 Education & Certifications
 - **BSc Computer Science** - Bahir Dar University (GPA: 3.70)
 - Full-Stack Development Certification (MERN)
-- Mobile Development Certification (React Native)
+- Mobile Development Certification (React Native & Flutter)
 
 ## 🌐 Let's Connect
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOL1001)
