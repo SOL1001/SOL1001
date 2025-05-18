@@ -46,7 +46,7 @@
 🏦 Secure banking application with transaction processing (SQL database)
 
 ## 📚 Education & Certifications
-- **BSc Computer Science** - Bahir Dar University (GPA: 3.70)
+- **BSc Computer Science** - Bahir Dar University (GPA: 3.8)
 - Full-Stack Development Certification (MERN)
 - Mobile Development Certification (React Native & Flutter)
 - Database Management Certification (SQL & NoSQL)
