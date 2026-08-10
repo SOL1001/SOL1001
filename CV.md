@@ -42,6 +42,12 @@ Results-driven Software Developer with over 3 years of experience specializing i
 
 ## Key Projects
 
+* **CBE Market ERP & Super App Integration** (*Odoo, Python, PostgreSQL, REST APIs*)
+  Contributed to a large-scale Odoo ERP and e-commerce ecosystem for the Commercial Bank of Ethiopia. Engineered API integrations connecting Odoo with the CBE Super App, enabling merchants to seamlessly sell products while centralizing ERP, sales, inventory, and payment operations.
+
+* **StarPay Odoo POS Integration** (*Odoo, Python, PostgreSQL*)
+  Integrated the StarPay payment gateway directly into Odoo POS. Enabled merchants to securely collect payments through diverse channels including USSD, payment references, QR codes, in-app, bank, and card payments, alongside robust inventory management.
+
 * **Ethiopian Tourism Commission ERP** (*Frappe, Python, JavaScript, MariaDB*)
   Developed a custom ERP solution for a government institution encompassing HR, payroll, finance, and asset tracking. Designed modular workflows tailored to strict public sector compliance and reporting standards.
 

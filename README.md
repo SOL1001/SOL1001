@@ -46,8 +46,11 @@
 ### [AddisPay Payment Gateway Portal](https://play.google.com/store/apps/details?id=com.addispayapp&pcampaignid=web_share) 
 💳 Digital payment solution with merchant portal, USSD, and multi-bank integrations (Node.js, Express, SQL)
 
-### [EthioRent](https://github.com/SOL1001/ethiorent) 
-🏠 Full-stack rental platform with React, Node.js, and MongoDB
+### [CBE Market ERP & Super App Integration](#) 
+🛒 Large-scale Odoo ERP and E-commerce ecosystem for Commercial Bank of Ethiopia. Integrated Odoo with the CBE Super App via APIs, managing merchants, sales, inventory, and payments. (Odoo, Python, PostgreSQL)
+
+### [StarPay Odoo POS Integration](#) 
+💳 Integrated StarPay payment gateway directly into Odoo POS, enabling multiple payment methods (USSD, QR, In-App, Card) alongside robust inventory and sales operations. (Odoo, Python)
 
 ## 📚 Education
 - **BSc Computer Science** - Bahir Dar University (GPA: 3.8)
