@@ -5,7 +5,7 @@
 
 🚀 Results-driven developer building scalable solutions. Currently crafting high-traffic digital experiences and backend microservices at **Eagle Lion System Technology**, while contributing to Ethiopia's tech ecosystem. Specializing in Node.js, Go, and enterprise ERPs (Odoo, Frappe).
 
-🌍 Based in Addis Ababa, Ethiopia | 📧 solyitayew7@gmail.com | 🔗 [My Portfolio](https://solomon2.netlify.app)
+🌍 Based in Addis Ababa, Ethiopia | 📧 solyitayew7@gmail.com | 🔗 [My Portfolio](https://solomon-portfolio-murex.vercel.app/)
 
 ## 🔥 Experience
 - 💼 **Full-Stack Developer** at *Eagle Lion System Technology* (Oct 2025 - Present) — Engineering microservices for CBE Super App and StarPay gateway.
